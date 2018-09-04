@@ -1,0 +1,7 @@
+Wed, 25 Jul 2018 12:58:01 connectionpool.py[line:824] DEBUG Starting new HTTPS connection (1): wywl.0256.cn
+Wed, 25 Jul 2018 12:58:02 connectionpool.py[line:396] DEBUG https://wywl.0256.cn:443 "POST /test/truck-api/v002/user/sendSmsCode HTTP/1.1" 200 101
+Wed, 25 Jul 2018 12:58:02 connectionpool.py[line:824] DEBUG Starting new HTTPS connection (1): wywl.0256.cn
+Wed, 25 Jul 2018 12:58:03 connectionpool.py[line:396] DEBUG https://wywl.0256.cn:443 "POST /test/truck-api/v002/user/sendSmsCode HTTP/1.1" 200 101
+Wed, 25 Jul 2018 12:58:03 connectionpool.py[line:824] DEBUG Starting new HTTPS connection (1): wywl.0256.cn
+Wed, 25 Jul 2018 12:58:03 connectionpool.py[line:396] DEBUG https://wywl.0256.cn:443 "POST /test/truck-api/v002/user/sendSmsCode HTTP/1.1" 200 101
+Wed, 25 Jul 2018 12:58:03 StartTest.py[line:19] INFO 验证码获取测试
